@@ -1,0 +1,6 @@
+com\example\Crud\modelo\Alumno.class
+com\example\Crud\excepciones\ResourceNotFoundException.class
+com\example\Crud\repositorio\AlumnoRepositorio.class
+com\example\Crud\CrudApplication.class
+com\example\Crud\controlador\AlumnoControlador.class
+com\example\Crud\alumnoServicio\AlumnoServicio.class
