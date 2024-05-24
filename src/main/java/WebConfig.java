@@ -8,7 +8,7 @@ public class WebConfig {
     public CorsConfigurationSource corsConfigurationSource() {
         CorsConfiguration configuration = new CorsConfiguration();
         configuration.setAllowCredentials(true);
-        configuration.addAllowedOrigin("https://crud-estudiantes-d1a57.web.app"); // Especifica el dominio de tu aplicación Angular
+        configuration.addAllowedOrigin("https://crud-420e9.web.app"); // Especifica el dominio de tu aplicación Angular
         configuration.addAllowedHeader("*");
         configuration.addAllowedMethod("*");
 
